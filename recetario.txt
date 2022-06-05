@@ -1,0 +1,6 @@
+recetario:{"Omelette":["huevo","jamon","queso","sal","aceite"],
+"Huevo Frito":["huevo","sal","aceite"],
+"Huevo Duro":["huevo","sal","agua"],
+"Huevo Revuelto":["huevo","sal","aceite"],
+"Panqueques":["huevo","sal","rocio","agua"],
+}
